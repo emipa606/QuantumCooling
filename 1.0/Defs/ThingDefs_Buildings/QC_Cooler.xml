@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="QC_Cooler">
+    <defName>QC_QuantumCooler_Proto</defName>
+    <label>Quantum Cooler (Prototype)</label>
+    <description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This prototype version is far weaker than what is theoretically possible. It may struggle to keep negative temperatures.</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/QC/QC_QuantumCooler_Proto</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shadowData>
+        <volume>(0.25,0.4,0.7)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.234375,0,0.515625,0.984375)</rect>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>40</pathCost>
+    <statBases>
+      <WorkToMake>1000</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>6</Mass>
+      <Flammability>0.8</Flammability>
+    </statBases>
+    <costList>
+      <Steel>75</Steel>
+      <Silver>100</Silver>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>200</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_TempControl">
+        <energyPerSecond>-11</energyPerSecond>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>2</glowRadius>
+        <glowColor>(0,130,255,0)</glowColor>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+    </comps>
+    <researchPrerequisites>
+      <li>QC_Research_QuantumCooler_I</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="QC_Cooler">
+    <defName>QC_QuantumCooler</defName>
+    <label>Quantum Cooler (Small)</label>
+    <description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it.</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/QC/QC_QuantumCooler_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shadowData>
+        <volume>(0.25,0.4,0.7)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.234375,0,0.515625,0.984375)</rect>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>40</pathCost>
+    <statBases>
+      <WorkToMake>1000</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>6</Mass>
+      <Flammability>0.1</Flammability>
+    </statBases>
+    <costList>
+      <Plasteel>10</Plasteel>
+      <Silver>200</Silver>
+      <Gold>50</Gold>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>500</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_TempControl">
+        <energyPerSecond>-33</energyPerSecond>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(0,175,255,0)</glowColor>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>QC_Research_QuantumCooler_II</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="QC_Cooler">
+    <defName>QC_QuantumCooler_Large</defName>
+    <label>Quantum Cooler (Large)</label>
+    <description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This can be used to reach extremely low temperatures.</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/QC/QC_QuantumCooler_Large</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,2)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <size>(3,2)</size>
+    <rotatable>true</rotatable>
+    <fillPercent>0.8</fillPercent>
+    <pathCost>150</pathCost>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>15</Mass>
+      <Flammability>0.1</Flammability>
+    </statBases>
+    <costList>
+      <Plasteel>75</Plasteel>
+      <Silver>500</Silver>
+      <Gold>50</Gold>
+      <ComponentIndustrial>10</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>2000</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_TempControl">
+        <energyPerSecond>-190</energyPerSecond>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>8</glowRadius>
+        <glowColor>(0,200,255,0)</glowColor>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>QC_Research_QuantumCooler_II</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>

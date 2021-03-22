@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QC_QuantumCooler_Proto.label>Quantum Cooler (Prototype)</QC_QuantumCooler_Proto.label>
+  <QC_QuantumCooler_Proto.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This prototype version is far weaker than what is theoretically possible. It may struggle to keep negative temperatures.</QC_QuantumCooler_Proto.description>
+  <QC_QuantumCooler_Proto_Blueprint.label>Quantum Cooler (Prototype) (blueprint)</QC_QuantumCooler_Proto_Blueprint.label>
+  <QC_QuantumCooler_Proto_Blueprint_Install.label>Quantum Cooler (Prototype) (blueprint)</QC_QuantumCooler_Proto_Blueprint_Install.label>
+  <QC_QuantumCooler_Proto_Frame.label>Quantum Cooler (Prototype) (building)</QC_QuantumCooler_Proto_Frame.label>
+  <QC_QuantumCooler_Proto_Frame.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This prototype version is far weaker than what is theoretically possible. It may struggle to keep negative temperatures.</QC_QuantumCooler_Proto_Frame.description>
+  <QC_QuantumCooler.label>Quantum Cooler (Small)</QC_QuantumCooler.label>
+  <QC_QuantumCooler.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it.</QC_QuantumCooler.description>
+  <QC_QuantumCooler_Blueprint.label>Quantum Cooler (Small) (blueprint)</QC_QuantumCooler_Blueprint.label>
+  <QC_QuantumCooler_Blueprint_Install.label>Quantum Cooler (Small) (blueprint)</QC_QuantumCooler_Blueprint_Install.label>
+  <QC_QuantumCooler_Frame.label>Quantum Cooler (Small) (building)</QC_QuantumCooler_Frame.label>
+  <QC_QuantumCooler_Frame.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it.</QC_QuantumCooler_Frame.description>
+  <QC_QuantumCooler_Large.label>Quantum Cooler (Large)</QC_QuantumCooler_Large.label>
+  <QC_QuantumCooler_Large.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This can be used to reach extremely low temperatures.</QC_QuantumCooler_Large.description>
+  <QC_QuantumCooler_Large_Blueprint.label>Quantum Cooler (Large) (blueprint)</QC_QuantumCooler_Large_Blueprint.label>
+  <QC_QuantumCooler_Large_Blueprint_Install.label>Quantum Cooler (Large) (blueprint)</QC_QuantumCooler_Large_Blueprint_Install.label>
+  <QC_QuantumCooler_Large_Frame.label>Quantum Cooler (Large) (building)</QC_QuantumCooler_Large_Frame.label>
+  <QC_QuantumCooler_Large_Frame.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This can be used to reach extremely low temperatures.</QC_QuantumCooler_Large_Frame.description>
+</LanguageData>

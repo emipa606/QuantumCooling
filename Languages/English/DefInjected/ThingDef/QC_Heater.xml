@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QC_QuantumHeater.label>Quantum Heater (Small)</QC_QuantumHeater.label>
+  <QC_QuantumHeater.description>A small quantum heating device.</QC_QuantumHeater.description>
+  <QC_QuantumHeater_Blueprint.label>Quantum Heater (Small) (blueprint)</QC_QuantumHeater_Blueprint.label>
+  <QC_QuantumHeater_Blueprint_Install.label>Quantum Heater (Small) (blueprint)</QC_QuantumHeater_Blueprint_Install.label>
+  <QC_QuantumHeater_Frame.label>Quantum Heater (Small) (building)</QC_QuantumHeater_Frame.label>
+  <QC_QuantumHeater_Frame.description>A small quantum heating device.</QC_QuantumHeater_Frame.description>
+  <QC_QuantumHeater_Large.label>Quantum Heater (Large)</QC_QuantumHeater_Large.label>
+  <QC_QuantumHeater_Large.description>A large quantum heating device.</QC_QuantumHeater_Large.description>
+  <QC_QuantumHeater_Large_Blueprint.label>Quantum Heater (Large) (blueprint)</QC_QuantumHeater_Large_Blueprint.label>
+  <QC_QuantumHeater_Large_Blueprint_Install.label>Quantum Heater (Large) (blueprint)</QC_QuantumHeater_Large_Blueprint_Install.label>
+  <QC_QuantumHeater_Large_Frame.label>Quantum Heater (Large) (building)</QC_QuantumHeater_Large_Frame.label>
+  <QC_QuantumHeater_Large_Frame.description>A large quantum heating device.</QC_QuantumHeater_Large_Frame.description>
+</LanguageData>

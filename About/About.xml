@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Quantum Cooling (Continued)</name>
+  <packageId>Mlie.QuantumCooling</packageId>
+  <author>Alaestor</author>
+  <url>https://github.com/emipa606/QuantumCooling</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Alaestors mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=774577413
+
+This is an unchanged version of the mod, uploaded on request. 
+There is also a modified version called [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296]Quantum Cooling Redux[/url] by Poet but some did not like the changes.
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/QuantumCooling][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[h1]Notice Of Abandonment[/h1]
+[i]This mod will not be receiving updates or fixes.[/i]
+Instead, check out Poet's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296]Quantum Cooling Redux[/url]
+
+
+
+
+
+---
+Tired of the heat?! Go tell Thermodynamics to screw off! [i]Quantum Cooling[/i]™
+
+Now With Heaters!
+
+[b]Quantum Cooling[/b] technology allows for exhaustless cooling. It can be used to reach extremely low temperatures but is relatively expensive and consumes a lot of power.
+
+
+
+[b]Previous Versions[/b] going back to A15 can be found via the [url=https://ludeon.com/forums/index.php?topic=26590.]Forum Thread[/url].
+
+[h1]Quantum Cooling™ Technology[/h1]
+Using quantum mechanics; you can discover how to reduce entropy without displacing it.
+Perfect for cooling the inside of mountian bases without the need for exhaust venting!
+[spoiler]And before you comment, thanks, I know physics doesn't work like that![/spoiler]
+
+[h1]Research and Construction[/h1]
+After you've researched "Air Conditioning", QC adds the "[b]Quantum Prototype[/b]" which will unlock the very weak Prototype Quantum Cooler. It may struggle to keep negative temperatures depending on the room size, climate, and weather. From there you can research the next tier; "[b]Quantum Cooling[/b]" which will unlock both the Small and Large versions of the Quantum Cooler, which can be found in the Temperature construction tab. Also adds "Quantum Heating" which will unlock both the Small and Large versions of the Quantum Heater.
+
+[h1]Cooler Comparison[/h1]
+[i]eps = Energy Per Second (Rimworld's heat mechanics...) [/i]
+The lower the Watts per EPS, the more efficient the cooler is.
+[list]
+[*] [b][u]Default Rimworld Cooler[/u][/b] 
+Efficiency: -21eps at 200watts for 9.5w per eps.
+Materials:  90 Steel and 3 components.
+Research: Air Conditioning
+
+[*] [b][u]Prototype Quantum Cooler[/u][/b] 
+Efficiency: -11eps at 200watts for 18.2w per eps.
+Materials:  75 Steel, 100 Silver, and 5 components.
+Research: Air Conditioning
+
+[*] [b][u]Small Quantum Cooler[/u][/b]
+Efficiency: -33eps at 500watts for 15.2w per eps.
+Materials: 10 Plasteel, 200 Silver, 50 Gold, and 5 Components.
+Research: Quantum Cooling
+
+[*] [b][u]Large Quantum Cooler[/u][/b]
+Efficiency: -190eps at 2000watts for 10.5w per eps.
+Materials:  75 Plasteel, 500 Silver, 50 Gold, and 10 Components.
+Research: Quantum Cooling
+[/list]
+
+To balance the lack of exhaust, Quantum Coolers are rather pricey and inefficient. The coolers get more efficient in accordance with their price - though the default cooler will always be more resource and energy efficient. However, the bonuses are that you can do more with less space and don't need to worry about exhaust. In a space that's well insulated a non-prototype Quantum Cooler can be used to easily reach temperatures close to absolute zero.
+
+[h1]Compatibility[/h1]  [i]You're good to go[/i]! QC isn't known to conflict with anything.
+
+[h1]Final Notes[/h1]
+I will keep the [url=http://steamcommunity.com/sharedfiles/filedetails//changelog/774577413/]Change Log[/url] up to date with recent changes. 
+Please [url=http://steamcommunity.com/workshop/filedetails/discussion/774577413/350543841944679742/]report bugs[/url] in the designated discussion thread.
+
+[url=https://ludeon.com/forums/index.php?topic=26590.0]Official Forum Thread[/url]
+Current Mod Version: 2.0.0 [spoiler](MMMs Format = Macro - Meso - Micro)[/spoiler]
+Made for Game Version: 1.0.2059
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+

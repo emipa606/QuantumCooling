@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Quantum Cooling</name>
+  <author>Alaestor</author>
+  <packageId>Alaestor.QuantumCooling</packageId>
+  <url>https://ludeon.com/forums/index.php?topic=26590</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <description> --Mod Version: 2.0.2
+Go tell Thermodynamics to screw off!
+
+Using quantum mechanics;
+you can discover how to reduce entropy without displacing it.
+
+Quantum Cooling technology allows for exhaustless cooling.
+
+It can be used to reach extremely low temperatures;
+but is relatively expensive and consumes a lot of power.
+</description>
+</ModMetaData>
