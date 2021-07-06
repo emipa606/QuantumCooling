@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Abstract="True" Name="QC_BuildingBase" ParentName="BuildingBase">
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <blockWind>false</blockWind>
+    <tickerType>Rare</tickerType>
+    <designationCategory>Temperature</designationCategory>
+    <thingCategories>
+      <li>BuildingsTemperature</li>
+    </thingCategories>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <constructionSkillPrerequisite>7</constructionSkillPrerequisite>
+  </RecipeDef>
+  <RecipeDef Abstract="True" Name="QC_Cooler" ParentName="QC_BuildingBase">
+    <thingClass>Building_Heater</thingClass>
+    <placeWorkers>
+      <li>PlaceWorker_CoolerSimple</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+  </RecipeDef>
+  <RecipeDef Abstract="True" Name="QC_Heater" ParentName="QC_BuildingBase">
+    <thingClass>Building_Heater</thingClass>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+  </RecipeDef>
+</Defs>

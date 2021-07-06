@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Quantum Cooling (Continued)</name>
   <packageId>Mlie.QuantumCooling</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -28,15 +29,6 @@ There is also a modified version called [url=https://steamcommunity.com/sharedfi
 [/table]
 	
 [img]https://i.imgur.com/NOW7jU1.png[/img]
-[h1]Notice Of Abandonment[/h1]
-[i]This mod will not be receiving updates or fixes.[/i]
-Instead, check out Poet's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296]Quantum Cooling Redux[/url]
-
-
-
-
-
----
 Tired of the heat?! Go tell Thermodynamics to screw off! [i]Quantum Cooling[/i]™
 
 Now With Heaters!
@@ -50,13 +42,13 @@ Now With Heaters!
 [h1]Quantum Cooling™ Technology[/h1]
 Using quantum mechanics; you can discover how to reduce entropy without displacing it.
 Perfect for cooling the inside of mountian bases without the need for exhaust venting!
-[spoiler]And before you comment, thanks, I know physics doesn't work like that![/spoiler]
+[spoiler]And before you comment, thanks, I know physics doesn&apos;t work like that![/spoiler]
 
 [h1]Research and Construction[/h1]
-After you've researched "Air Conditioning", QC adds the "[b]Quantum Prototype[/b]" which will unlock the very weak Prototype Quantum Cooler. It may struggle to keep negative temperatures depending on the room size, climate, and weather. From there you can research the next tier; "[b]Quantum Cooling[/b]" which will unlock both the Small and Large versions of the Quantum Cooler, which can be found in the Temperature construction tab. Also adds "Quantum Heating" which will unlock both the Small and Large versions of the Quantum Heater.
+After you&apos;ve researched &quot;Air Conditioning&quot;, QC adds the &quot;[b]Quantum Prototype[/b]&quot; which will unlock the very weak Prototype Quantum Cooler. It may struggle to keep negative temperatures depending on the room size, climate, and weather. From there you can research the next tier; &quot;[b]Quantum Cooling[/b]&quot; which will unlock both the Small and Large versions of the Quantum Cooler, which can be found in the Temperature construction tab. Also adds &quot;Quantum Heating&quot; which will unlock both the Small and Large versions of the Quantum Heater.
 
 [h1]Cooler Comparison[/h1]
-[i]eps = Energy Per Second (Rimworld's heat mechanics...) [/i]
+[i]eps = Energy Per Second (Rimworld&apos;s heat mechanics...) [/i]
 The lower the Watts per EPS, the more efficient the cooler is.
 [list]
 [*] [b][u]Default Rimworld Cooler[/u][/b] 
@@ -80,9 +72,9 @@ Materials:  75 Plasteel, 500 Silver, 50 Gold, and 10 Components.
 Research: Quantum Cooling
 [/list]
 
-To balance the lack of exhaust, Quantum Coolers are rather pricey and inefficient. The coolers get more efficient in accordance with their price - though the default cooler will always be more resource and energy efficient. However, the bonuses are that you can do more with less space and don't need to worry about exhaust. In a space that's well insulated a non-prototype Quantum Cooler can be used to easily reach temperatures close to absolute zero.
+To balance the lack of exhaust, Quantum Coolers are rather pricey and inefficient. The coolers get more efficient in accordance with their price - though the default cooler will always be more resource and energy efficient. However, the bonuses are that you can do more with less space and don&apos;t need to worry about exhaust. In a space that&apos;s well insulated a non-prototype Quantum Cooler can be used to easily reach temperatures close to absolute zero.
 
-[h1]Compatibility[/h1]  [i]You're good to go[/i]! QC isn't known to conflict with anything.
+[h1]Compatibility[/h1]  [i]You&apos;re good to go[/i]! QC isn&apos;t known to conflict with anything.
 
 [h1]Final Notes[/h1]
 I will keep the [url=http://steamcommunity.com/sharedfiles/filedetails//changelog/774577413/]Change Log[/url] up to date with recent changes. 
@@ -103,4 +95,3 @@ Made for Game Version: 1.0.2059
 [/list]
 </description>
 </ModMetaData>
-
