@@ -1,5 +1,8 @@
 # Changelog for QuantumCooling
 
+1.4.2 - Removed the redundant translation-files
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

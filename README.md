@@ -88,4 +88,5 @@ Made for Game Version: 1.0.2059
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2432699889]![Image](https://img.shields.io/github/v/release/emipa606/QuantumCooling?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 
