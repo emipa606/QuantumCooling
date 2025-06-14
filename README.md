@@ -1,4 +1,4 @@
-# QuantumCooling
+# [Quantum Cooling (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2432699889)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,10 +6,9 @@ Update of Alaestors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=774577413
 
 This is an unchanged version of the mod, uploaded on request. 
-There is also a modified version called https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296]Quantum Cooling Redux by Poet but some did not like the changes.
+There is also a modified version called [Quantum Cooling Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296) by Poet but some did not like the changes.
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -21,7 +20,7 @@ Now With Heaters!
 
 
 
-**Previous Versions** going back to A15 can be found via the https://ludeon.com/forums/index.php?topic=26590.]Forum Thread.
+**Previous Versions** going back to A15 can be found via the [Forum Thread](https://ludeon.com/forums/index.php?topic=26590.).
 
 # Quantum Cooling™ Technology
 
@@ -39,22 +38,22 @@ After you've researched "Air Conditioning", QC adds the "**Quantum Prototype**" 
 The lower the Watts per EPS, the more efficient the cooler is.
 
 
--  **[u]Default Rimworld Cooler[/u]** 
+-  **<ins>Default Rimworld Cooler</ins>** 
 Efficiency: -21eps at 200watts for 9.5w per eps.
 Materials:  90 Steel and 3 components.
 Research: Air Conditioning
 
--  **[u]Prototype Quantum Cooler[/u]** 
+-  **<ins>Prototype Quantum Cooler</ins>** 
 Efficiency: -11eps at 200watts for 18.2w per eps.
 Materials:  75 Steel, 100 Silver, and 5 components.
 Research: Air Conditioning
 
--  **[u]Small Quantum Cooler[/u]**
+-  **<ins>Small Quantum Cooler</ins>**
 Efficiency: -33eps at 500watts for 15.2w per eps.
 Materials: 10 Plasteel, 200 Silver, 50 Gold, and 5 Components.
 Research: Quantum Cooling
 
--  **[u]Large Quantum Cooler[/u]**
+-  **<ins>Large Quantum Cooler</ins>**
 Efficiency: -190eps at 2000watts for 10.5w per eps.
 Materials:  75 Plasteel, 500 Silver, 50 Gold, and 10 Components.
 Research: Quantum Cooling
@@ -68,10 +67,10 @@ To balance the lack of exhaust, Quantum Coolers are rather pricey and inefficien
 
 # Final Notes
 
-I will keep the http://steamcommunity.com/sharedfiles/filedetails//changelog/774577413/]Change Log up to date with recent changes. 
-Please http://steamcommunity.com/workshop/filedetails/discussion/774577413/350543841944679742/]report bugs in the designated discussion thread.
+I will keep the [Change Log](http://steamcommunity.com/sharedfiles/filedetails//changelog/774577413/) up to date with recent changes. 
+Please [report bugs](http://steamcommunity.com/workshop/filedetails/discussion/774577413/350543841944679742/) in the designated discussion thread.
 
-https://ludeon.com/forums/index.php?topic=26590.0]Official Forum Thread
+[Official Forum Thread](https://ludeon.com/forums/index.php?topic=26590.0)
 Current Mod Version: 2.0.0 [spoiler](MMMs Format = Macro - Meso - Micro)[/spoiler]
 Made for Game Version: 1.0.2059
 
@@ -81,13 +80,12 @@ Made for Game Version: 1.0.2059
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2432699889]![Image](https://img.shields.io/github/v/release/emipa606/QuantumCooling?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/QuantumCooling?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2432699889) | tags:  quantum mechanics

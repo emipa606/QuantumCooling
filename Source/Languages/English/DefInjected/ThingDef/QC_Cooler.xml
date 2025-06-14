@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <QC_QuantumCooler_Proto.label>Quantum Cooler (Prototype)</QC_QuantumCooler_Proto.label>
   <QC_QuantumCooler_Proto.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it. This prototype version is far weaker than what is theoretically possible. It may struggle to keep negative temperatures.</QC_QuantumCooler_Proto.description>

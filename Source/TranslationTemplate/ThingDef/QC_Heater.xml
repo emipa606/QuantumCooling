@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Quantum Heater (Small) -->
+  <QC_QuantumHeater.label>Quantum Heater (Small)</QC_QuantumHeater.label>
+  <!-- EN: A small quantum heating device. -->
+  <QC_QuantumHeater.description>A small quantum heating device.</QC_QuantumHeater.description>
+  <!-- EN: Quantum Heater (Large) -->
+  <QC_QuantumHeater_Large.label>Quantum Heater (Large)</QC_QuantumHeater_Large.label>
+  <!-- EN: A large quantum heating device. -->
+  <QC_QuantumHeater_Large.description>A large quantum heating device.</QC_QuantumHeater_Large.description>
+</LanguageData>
